@@ -1,0 +1,4 @@
+logs/*.png
+logs/*.html
+logs/*.xml
+logs/*.output.xml
